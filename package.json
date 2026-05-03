@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@liamcottle/rustplus.js": "^2.5.0",
+    "mqtt": "^5.15.1",
+  }
+}
